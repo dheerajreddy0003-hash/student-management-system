@@ -1,4 +1,5 @@
-const API_BASE = 'http://localhost:3000/api/students';
+const api = "https://your-render-service.onrender.com/students";
+
 
 const form = document.getElementById('student-form');
 const nameInput = document.getElementById('name');
