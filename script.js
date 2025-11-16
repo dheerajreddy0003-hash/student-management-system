@@ -1,5 +1,6 @@
 const api = "https://your-render-service.onrender.com/students";
 
+Updated API URL to Render backend
 
 const form = document.getElementById('student-form');
 const nameInput = document.getElementById('name');
