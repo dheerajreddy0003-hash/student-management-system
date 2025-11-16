@@ -1,4 +1,8 @@
-const api = "https://student-management-system-6wpi.onrender.com/students";
+// Correct API Base URL
+const API_BASE = "https://student-management-system-6wpi.onrender.com/students";
+
+// Form elements
+const form = document.getElementById('student-form');
 
 Updated API URL to Render backend
 
