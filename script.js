@@ -1,4 +1,4 @@
-const api = "https://your-render-service.onrender.com/students";
+const api = "https://student-management-system-6wpi.onrender.com/students";
 
 Updated API URL to Render backend
 
