@@ -1,6 +1,6 @@
 Student Management System
 
-A simple full-stack CRUD application built for managing student records.
+A full-stack CRUD application built for managing student records.
 This project includes a Node.js + Express backend and a HTML/CSS/JavaScript frontend.
 
 📁 Project Structure
